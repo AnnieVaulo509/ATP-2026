@@ -8,6 +8,7 @@ A113007
 
 
 
-![foto](https://github.com/AnnieVaulo509/ATP-2026/blob/main/TPC1/WhatsApp%20Image%202026-09-22%20at%2015.23.12.jpeg)
+![foto](<img width="693" height="946" alt="WhatsApp Image 2026-09-22 at 15 23 12" src="https://github.com/user-attachments/assets/04f9ab48-a61e-4a68-bf94-76fdc4e0fd23" />
+)
 
 Maze - resolução do nivel 10
