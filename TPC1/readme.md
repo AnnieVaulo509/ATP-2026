@@ -15,7 +15,10 @@ Maze - resolução do nivel 10
 ![alt text](<../../../../Downloads/Opera Instantâneo_2026-09-23_190248_blockly.games.png>)
 
 Desenho do barco a vela pedido pelo docente:
-![alt text](<../../../../Downloads/Opera Instantâneo_2026-09-23_182916_blockly.games.png>)
+
+<img width="1275" height="640" alt="Opera Instantâneo_2026-09-23_182916_blockly games" src="https://github.com/user-attachments/assets/b991ee61-c02c-4d8c-9e71-36bd9626a369" />
+
 
 link para analise:
+
 https://blockly.games/turtle?lang=en&level=10#9p768m
