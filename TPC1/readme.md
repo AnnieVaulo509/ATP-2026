@@ -12,6 +12,8 @@ A113007
 
 Maze - resolução do nivel 10
 
+![alt text](<../../../../Downloads/Opera Instantâneo_2026-09-23_190248_blockly.games.png>)
+
 Desenho do barco a vela pedido pelo docente:
 ![alt text](<../../../../Downloads/Opera Instantâneo_2026-09-23_182916_blockly.games.png>)
 
