@@ -1,9 +1,11 @@
-# Adivinha o número
+# Adivinha o número TPC2
 
 Nome: Annie Santos
+
 ID: A13007
 
-![foto](<../../../../Downloads/WhatsApp Image 2026-09-22 at 15.23.12.jpeg>)
+<img width="693" height="946" alt="WhatsApp Image 2026-09-22 at 15 23 12" src="https://github.com/user-attachments/assets/638fcf96-25fe-414a-91e0-795b1ac5955d" />
+
 
 # Solução pc adivinha o numero do utilizador
 
