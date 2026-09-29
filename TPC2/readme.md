@@ -1,4 +1,10 @@
 # Adivinha o número
+
+Nome: Annie Santos
+ID: A13007
+
+![foto](<../../../../Downloads/WhatsApp Image 2026-09-22 at 15.23.12.jpeg>)
+
 # Solução pc adivinha o numero do utilizador
 
 print("Olá, vamos ao jogo?")
