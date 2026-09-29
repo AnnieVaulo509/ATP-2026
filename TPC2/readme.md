@@ -9,6 +9,7 @@ ID: A13007
 
 # Solução pc adivinha o numero do utilizador
 
+``` python
 print("Olá, vamos ao jogo?")
 a = input("Responda com s ou n")
 while a!= "n":
@@ -41,3 +42,4 @@ while a!= "n":
  
 else:
     print("Até uma proxima!")
+    ```
