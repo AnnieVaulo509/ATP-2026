@@ -9,4 +9,4 @@ Annie Santos - A113007
 Este trabalho contem uma apicação em que o utilizador pode manipular e criar listas
 
 # Link para resolução
-[Ver resolução](../Semana_4/TPC4.ipynb)
+[Ver resolução](./TPC4/TPC4.ipynb)
